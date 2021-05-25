@@ -1,0 +1,1 @@
+python detect.py --model C:\Users\XAVIERFF\models\object_detection\inference_graph\saved_model --labelmap object-detection.pbtxt --image_path zona.tif
